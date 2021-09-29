@@ -55,6 +55,9 @@ hr{
     left: 300px;
     bottom: 300px;
 }
+.mountain{
+    width: 50%;
+}
 .bottom-container{
     margin-bottom: 0rem;
     background-color: #66BFBF;
