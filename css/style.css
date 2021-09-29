@@ -56,7 +56,8 @@ hr{
     bottom: 300px;
 }
 .mountain{
-    width: 50%;
+    max-width: 100%;
+    height: auto;
 }
 .bottom-container{
     margin-bottom: 0rem;
