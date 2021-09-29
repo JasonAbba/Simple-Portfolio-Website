@@ -48,12 +48,12 @@ hr{
 .top-cloud{
     position: absolute;
     right: 300px;
-    top: 55px;
+    top: 50px;
 }
 .bottom-cloud{
     position: absolute;
     left: 300px;
-    bottom: 580px;
+    bottom: 300px;
 }
 .mountain{
     max-width: 100%;
